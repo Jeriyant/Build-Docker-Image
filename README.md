@@ -16,7 +16,7 @@ Gunakan perintah berikut untuk membuild image untuk arsitektur ARM v7:
 docker buildx build --platform linux/arm/v7 -t mikhmonv3:latest --load .
 ```
 
-Langkah 3: Menjalankan Container
+## Langkah 3: Menjalankan Container
 Setelah image dibuild, jalankan container dengan perintah:
 
 ```
